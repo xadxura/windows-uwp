@@ -70,7 +70,7 @@ Users rely on visual hierarchy when scanning a page: headers summarize content, 
 
 The Windows type ramp establishes crucial relationships between the type styles on a page, helping users read content easily. All sizes are in effective pixels and are optimized for UWP apps running on all devices. 
 
-![The Windows type ramp.](images/type/type-ramp.png)
+![The Windows type ramp.](images/type/text-block-type-ramp.png)
 
 Check out the guidance on using the [XAML type ramp](windows/uwp/design/controls-and-patterns/xaml-theme-resources#the-xaml-type-ramp) for more details.
 
